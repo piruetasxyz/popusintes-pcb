@@ -2941,7 +2941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 87.122 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -3339,7 +3339,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 179.197 41.275 90)
 			(hide yes)
 			(show_name no)
@@ -3421,7 +3421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 87.9348 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3581,7 +3581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 32.0548 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3839,7 +3839,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical"
 			(at 21.59 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3955,7 +3955,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "parla:spdt_ssd12d00g3"
 			(at 161.925 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -4040,7 +4040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 28.702 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -4122,7 +4122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 52.3748 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -4360,7 +4360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 156.21 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4674,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 142.24 57.4548 0)
 			(hide yes)
 			(show_name no)
@@ -4852,7 +4852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 173.99 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -4956,7 +4956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 103.1748 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -5038,7 +5038,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 180.975 31.115 0)
 			(hide yes)
 			(show_name no)
@@ -5521,7 +5521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical"
 			(at 88.9 27.94 0)
 			(hide yes)
 			(show_name no)
