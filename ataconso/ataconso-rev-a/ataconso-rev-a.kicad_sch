@@ -1984,7 +1984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20f0c63b-a9f0-4010-abc7-ebf807cbe2ab")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR05"
 			(at 58.42 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2044,7 +2044,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR01")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -2062,7 +2062,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24bd86dd-99bb-41aa-8be9-e286fca3ff86")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR02"
 			(at 33.02 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2122,7 +2122,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR08")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2140,7 +2140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c5c8a94-7dbb-4934-af0e-463af6ad0b60")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR09"
 			(at 96.52 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2200,7 +2200,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR04")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -2218,7 +2218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3285fb12-b54e-4b7f-8709-f9121d5d586c")
-		(property "Reference" "C4"
+		(property "Reference" "C3"
 			(at 85.09 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2282,7 +2282,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "C4")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -2300,7 +2300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "344baa48-bac9-41a4-b244-3c7fbb819b2c")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR012"
 			(at 111.76 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2360,7 +2360,89 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR06")
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 33.02 72.39 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3fce4d50-1dbd-4b7d-a745-d021c128bf7d")
+		(property "Reference" "C1"
+			(at 29.21 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10n"
+			(at 29.21 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 32.0548 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 33.02 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9f2ef656-1f11-4fd5-8c3c-1faeb2eb8733")
+		)
+		(pin "2"
+			(uuid "71068700-5585-43f7-99cc-e843538e1516")
+		)
+		(instances
+			(project "ataconso-rev-a"
+				(path "/837c7b7b-d540-4609-998f-42c63488299f"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -2378,7 +2460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45c99551-e736-4670-bbdd-7ab3e3698a2c")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR01"
 			(at 30.48 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2438,7 +2520,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR09")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2754,7 +2836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bca02ec-eee9-4232-9d2f-fb08c6d6e828")
-		(property "Reference" "C1"
+		(property "Reference" "C2"
 			(at 49.53 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2818,7 +2900,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -2836,7 +2918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fa2879f-c58c-47ac-97d5-24ca0d1ed3b7")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 60.96 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2896,7 +2978,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2914,7 +2996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72e2e3cd-f19a-46db-8ac4-dd966d81d447")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR07"
 			(at 88.9 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2974,7 +3056,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR011")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -3299,88 +3381,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 33.02 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a53cd130-b5a5-4ad4-bee4-93c97b85d2d5")
-		(property "Reference" "C2"
-			(at 36.83 70.2309 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 36.83 72.7709 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 33.9852 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 33.02 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "398ea52d-7180-47a6-9435-a90a46c1fa32")
-		)
-		(pin "2"
-			(uuid "a0f1b9a7-7222-4c9c-8a69-e75f9587568a")
-		)
-		(instances
-			(project "ataconso-rev-a"
-				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Timer:NE555D")
 		(at 58.42 58.42 0)
 		(unit 1)
@@ -3490,7 +3490,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6f5b37f-6995-4be7-93ef-22d8d61caf36")
-		(property "Reference" "C3"
+		(property "Reference" "C4"
 			(at 100.33 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3554,7 +3554,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -3572,7 +3572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d38f1bc0-1dad-4eaa-8438-fd6db054eb59")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR011"
 			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3632,7 +3632,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR02")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -3728,7 +3728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efc4818e-bcfd-40e8-a26a-625784af752c")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR04"
 			(at 53.34 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -3788,7 +3788,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR07")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3806,7 +3806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f64ef9f5-516d-4574-8766-f8ad31d9640a")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR08"
 			(at 92.71 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -3866,7 +3866,7 @@
 		(instances
 			(project "ataconso-rev-a"
 				(path "/837c7b7b-d540-4609-998f-42c63488299f"
-					(reference "#PWR012")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
